@@ -1,3 +1,22 @@
+/*
+Sites que ajudam na escolha das cores:
+
+°Coolors
+https://coolors.co/
+°Adobe Color
+https://color.adobe.com/pt/create/color-wheel
+°Color Hunt
+https://colorhunt.co/
+°Color Tool - Material Design
+https://m3.material.io/styles/color/overview#!/?view.left=0&view.right=0&primary.color=6002ee
+*/
+
+
 body {
-    background-color: black;
+    background-color: #000000;
+    color: #f6f6f6;
+}
+
+strong {
+    color: #22D4FD;
 }
