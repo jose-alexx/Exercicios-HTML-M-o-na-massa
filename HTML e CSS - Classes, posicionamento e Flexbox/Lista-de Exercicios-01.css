@@ -16,6 +16,29 @@ Como quem trabalha com front-end, você precisa entender como os estilos são ap
 
 6) Aplicando o modelo de caixa na prática
 Agora que você entendeu o modelo de caixa CSS, aplique esse conhecimento no seu projeto. Selecione um elemento específico (por exemplo, um parágrafo) e ajuste as propriedades de margin, border, padding e content. Observe como cada alteração afeta o posicionamento e a aparência do elemento na página.*/
+
+
+/*
+Ajudas no estudo:
+
+CSS .class Selector
+https://www.w3schools.com/cssref/sel_class.php
+
+class
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
+
+Nomes de classes no CSS
+https://www.alura.com.br/artigos/nomes-de-classes-no-css
+
+Seletores CSS
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_selectors
+
+Reset CSS: O que é, exemplos, como Criar e usar
+https://www.alura.com.br/artigos/o-que-e-reset-css
+
+CSS Box Model
+https://www.w3schools.com/css/css_boxmodel.asp
+*/
  
 body {
     background-color: bisque;
