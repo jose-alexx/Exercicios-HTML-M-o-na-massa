@@ -11,12 +11,16 @@ https://colorhunt.co/
 https://m3.material.io/styles/color/overview#!/?view.left=0&view.right=0&primary.color=6002ee
 */
 
-
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #000000;
     color: #f6f6f6;
 }
-
 .titulo-destaque {
     color: #22D4FD;
+}
+.apresentacao {
+    display: flex;
+    align-items: center;
 }
